@@ -9,6 +9,12 @@
 			"email": "oscarafdev@gmail.com"
 		}
 	],
+	"repositories": [
+        	{
+            		"type": "vcs",
+            		"url": "https://github.com/asartz/laravel-4-generators"
+        	}
+    	],
 	"require": {
 		"php": "^7.0",
 		"illuminate/support": "^5.0 || ^6.0 || ^7.0 || ^8.0",
