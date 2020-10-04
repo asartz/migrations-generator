@@ -9,16 +9,10 @@
 			"email": "oscarafdev@gmail.com"
 		}
 	],
-	"repositories": [
-        	{
-            		"type": "vcs",
-            		"url": "https://github.com/asartz/Laravel-4-Generators"
-        	}
-    	],
 	"require": {
 		"php": "^7.0",
 		"illuminate/support": "^5.0 || ^6.0 || ^7.0 || ^8.0",
-		"oscarafdev/Laravel-4-Generators": "dev-vs",
+		"oscarafdev/laravel-4-generators": "^3.1",
 		"doctrine/dbal": "~2.10"
 	},
 	"autoload": {
