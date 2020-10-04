@@ -18,7 +18,7 @@
 	"require": {
 		"php": "^7.0",
 		"illuminate/support": "^5.0 || ^6.0 || ^7.0 || ^8.0",
-		"oscarafdev/laravel-4-generators": "^3.1",
+		"oscarafdev/laravel-4-generators": "dev-vs",
 		"doctrine/dbal": "~2.10"
 	},
 	"autoload": {
